@@ -29,7 +29,7 @@
 ">
 
 ### This is an intercative dashboard that i created from a sample cosmetic sales data . You can view it in detail and interact with it , in my tableau public profile 
-<"">
+<"https://public.tableau.com/app/profile/ishita6897">
 
 <"![cosmetic sales dashboard](https://user-images.githubusercontent.com/108074039/226295802-2c47f25b-ac67-47c5-aeaf-e6a3ea520666.png)
 ">
